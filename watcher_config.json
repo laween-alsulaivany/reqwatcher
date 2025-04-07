@@ -1,0 +1,5 @@
+{
+  "version_format": ">=",
+  "auto_add": true,
+  "requirement_file": "requirements-dev.txt"
+}
